@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+mat-card {
+  width: 400px;
+  padding: 20px;
+}
+
+.full-width {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.section {
+  margin: 20px 0;
+}
+
+.result {
+  padding: 20px;
+  background: #e3f2fd;
+  border-top: 1px solid #ddd;
+}
